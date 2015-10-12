@@ -19,6 +19,7 @@ namespace Game1
         private Score Score;
 
         //private Texture2D paddle;
+        //another comment.
 
         public Game1()
         {
